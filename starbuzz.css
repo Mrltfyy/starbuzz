@@ -16,6 +16,7 @@ body {
   font-size:        105%;
   padding:          15px;
   margin: 0px 330px 10px 10px ;
+  
 } 
 
 #sidebar {
@@ -34,7 +35,7 @@ body {
   padding:          15px;
   margin:           10px;
   font-size:        90%;
-  clear :right ;
+  clear :right;
 }
 
 h1 {
