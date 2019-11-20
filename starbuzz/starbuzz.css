@@ -91,3 +91,16 @@ a:visited {
 .coupon a, img {
   border: none;
 }
+.pic1 {
+  width: 300px;
+  height: 108px;
+  background-image: url(./images/header.gif);
+  background-position-x: 0px;
+}
+.pic2 {
+  width: 300px;
+  height: 108px;
+  background-image: url(./images/header.gif);
+  background-position-x: -500px;
+  float: right;
+}
